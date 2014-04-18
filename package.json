@@ -26,8 +26,8 @@
     "supertest": "~0.11.0",
     "mocha": "*",
     "should": ">= 0.0.1",
-    "grunt-mocha-test":"*",
-    "grunt-contrib-watch":"*"
+    "grunt-mocha-test": "*",
+    "grunt-contrib-watch": "*",
+    "express" : "*"
   }
-
 }
